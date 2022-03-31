@@ -1,0 +1,3 @@
+[submodule "Near/starter--near-sdk-as"]
+	path = Near/starter--near-sdk-as
+	url = https://github.com/Learn-NEAR/starter--near-sdk-as
